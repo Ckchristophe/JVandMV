@@ -1,1 +1,1 @@
-<html><javascript>IS a maven and java project</javascript></html>
+<html><javascript>Hello,Maven!</javascript></html>
